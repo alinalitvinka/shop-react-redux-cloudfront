@@ -1,3 +1,12 @@
+## S3-website
+
+Open http://bucket2task.s3-website-eu-west-1.amazonaws.com/
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
